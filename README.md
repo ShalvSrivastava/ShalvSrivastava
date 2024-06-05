@@ -1,4 +1,4 @@
-![logo](https://github.com/ShalvSrivastava/ShalvSrivastava/blob/main/1711608719017.jpeg)
+![logo](https://github.com/ShalvSrivastava/ShalvSrivastava/blob/main/linkedin%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Shalv</h1>
 <h3 align="center">Learning Data Analyst.</h3>
